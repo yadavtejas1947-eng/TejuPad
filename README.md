@@ -1,10 +1,10 @@
 # TejuPad
 
-TejuPad is a custom 3x3 macropad built for quick, one-handed control over the things I use most often — volume, media, function keys, and other useful shortcuts. It is powered by an RP2040 microcontroller, has a rotary encoder, an OLED display, and per-key RGB lighting, making it feel more like a compact productivity tool than a simple keyboard.
+<img width="1081" height="802" alt="image" src="https://github.com/user-attachments/assets/ef93b5ab-cd58-47d2-aff4-cfcbc3a604b2" />
+
+TejuPad is a custom 3x3 macropad built for quick, one-handed control over the things I use most often — volume, media, function keys, and other useful shortcuts. It is powered by an RP2040 microcontroller, has a rotary encoder, an OLED display, and per-key RGB lighting, making it feel more like a compact productivity tool than a simple keyboard. 
 
 The project started as a personal build inspired by the idea of having a small input device that sits right beside your desk and helps speed up everyday actions. Over time, it evolved into a fully designed PCB and firmware project with a complete KiCad schematic, keyboard firmware, and build notes.
-
-<img width="1080" height="608" alt="TejuPad prototype" src="https://github.com/user-attachments/assets/65d38cb6-e259-4314-90d2-4de6ef62edb1" />
 
 ## Why I built it
 
